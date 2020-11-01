@@ -1,0 +1,5 @@
+.post-card {
+    display: flexbox;
+    width: 100px;
+    height: 200px;
+}
